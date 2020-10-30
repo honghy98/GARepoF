@@ -12,7 +12,7 @@ GameObject:
   - component: {fileID: 1817705191749947180}
   - component: {fileID: 1817705191749947181}
   m_Layer: 0
-  m_Name: Particle System
+  m_Name: particleFX
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -4824,7 +4824,7 @@ ParticleSystemRenderer:
   m_RenderingLayerMask: 1
   m_RendererPriority: 0
   m_Materials:
-  - {fileID: 10308, guid: 0000000000000000f000000000000000, type: 0}
+  - {fileID: 2100000, guid: 214f345c28645fb4c93c3ea861787e1f, type: 2}
   m_StaticBatchInfo:
     firstSubMesh: 0
     subMeshCount: 0
